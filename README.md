@@ -1,3 +1,4 @@
+Link to original repository: https://github.com/miwurster/msc-iot-kaffeekanne
 
 # IoT Kaffeekanne
 
